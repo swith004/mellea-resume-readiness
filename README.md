@@ -10,5 +10,5 @@ pip install mellea
 A backend: Ollama running an IBM Granite model locally, or a hosted Granite endpoint
 
 
-## How to contribute"
+## How to contribute
 Fork this repo, pick an open issue, and open a pull request. The interface (CLI, notebook, or web app) is your team's choice — the issues specify the outcome, not the implementation.
