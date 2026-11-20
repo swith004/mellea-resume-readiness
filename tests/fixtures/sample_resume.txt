@@ -1,0 +1,42 @@
+Jordan Rivera
+Miami, FL | jordan.rivera@example.com
+
+SUMMARY
+Junior software developer with 2 years of experience building web applications and data pipelines.
+U.S. Citizen. Languages: English, Spanish.
+
+SKILLS
+Python, JavaScript, SQL, React, Flask, Git, Docker, PostgreSQL
+
+Python - Experience - 36 months
+SQL - Experience - 24 months
+
+EXPERIENCE
+Software Engineering Intern, Sunshine Health Systems, Miami, FL
+May 2025 - August 2025
+- Built a Flask REST API that serves appointment data to a React dashboard.
+- Wrote SQL queries against PostgreSQL to cut report generation time by 40%.
+
+IT Help Desk Assistant, Florida International University, Miami, FL
+September 2023 - April 2025
+- Resolved hardware and software tickets for students and faculty.
+- Wrote Python scripts to automate account setup.
+
+PROJECTS
+Campus Shuttle Tracker
+- Built a React web app that shows live shuttle locations from a Flask API.
+
+EDUCATION
+Bachelor of Science in Computer Science, Florida International University
+Expected May 2026, GPA 3.7
+
+Associate in Arts, Miami Dade College
+2022
+
+CERTIFICATIONS
+CompTIA Security+
+AWS Certified Cloud Practitioner
+
+AWARDS
+Dean's List, Fall 2024
+First place, ShellHacks 2024 hackathon
